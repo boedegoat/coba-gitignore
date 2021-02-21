@@ -6,3 +6,6 @@ data/
 
 # ignore semua file.type
 # *.exe
+
+# Web untuk generate gitignore sesuai kebutuhan kita
+# gitignore.io
