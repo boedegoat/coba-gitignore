@@ -1,0 +1,8 @@
+# ignore file
+config.txt
+
+# ignore folder
+data/
+
+# ignore semua file.type
+# *.exe
